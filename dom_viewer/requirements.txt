@@ -1,0 +1,15 @@
+# DOM Viewer dependencies
+# Install with: pip install -r dom_viewer/requirements.txt
+
+# Async HTTP client for WebSocket + REST
+aiohttp>=3.9.0
+
+# TUI framework (fast terminal UI)
+textual>=0.85.0
+
+# Fast math (already likely installed)
+numpy>=1.24.0
+
+# Optional: faster JSON parsing
+orjson>=3.9.0
+
